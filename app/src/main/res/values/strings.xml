@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Vendas20201TH</string>
+    <string name="menu_limparform">\@string/menu_limparform</string>
+    <string name="menu_lercodigodebarras">\@string/menu_lercodigodebarras</string>
 </resources>
